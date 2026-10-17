@@ -49,6 +49,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Publer](https://publer.com/)** | Feature-rich scheduler supporting many platforms with AI assistance, bulk uploading, and competitive free/paid tiers. | $4/mo | 3 social accounts, 10 posts/account, 24h history | ~$2.4M |
 | **[Planable](https://planable.io/)** | Collaboration-focused content calendar for teams that need visual planning, comments, and approval workflows before publishing. | $39/workspace/mo | 50 total posts (one-time cap) | ~$1.6M |
 | **[Loomly](https://www.loomly.com/)** | Content calendar and collaboration platform designed for teams that need structured post approval and multi-channel planning. | $49/mo | 3 social accounts, 1 user | ~$0.65M |
+| **[OpenSparta](https://opensparta.com/)** | Telegram-focused workspace to discover relevant audiences, manage accounts, and streamline engagement. | Free; optional modules from $7/mo | Account and proxy tools; up to 50 connected accounts | Not disclosed |
 
 ---
 
